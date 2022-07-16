@@ -5,10 +5,11 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.176" />
         <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.176" />
-        <entry key="app/src/main/res/layout/game_fragment.xml" value="0.2667572463768116" />
+        <entry key="app/src/main/res/layout/game_fragment.xml" value="0.5337677444236867" />
         <entry key="app/src/main/res/layout/main_activity.xml" value="0.2667572463768116" />
-        <entry key="app/src/main/res/layout/score_fragment.xml" value="0.2667572463768116" />
+        <entry key="app/src/main/res/layout/score_fragment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/title_fragment.xml" value="0.2667572463768116" />
+        <entry key="app/src/main/res/xml/string.xml" value="0.47291666666666665" />
       </map>
     </option>
   </component>
